@@ -19,3 +19,8 @@
 
 # Go workspace file
 go.work
+
+public
+.idea
+.hugo_build.lock
+.DS_Store
